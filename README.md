@@ -30,7 +30,7 @@
 
 - exec => Executa comandos no container. Ex: docker exec nome_do_container comando_unix
 
-### Docker Compose
+# Docker Compose
 
 ## Comandos:
 
